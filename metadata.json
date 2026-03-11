@@ -1,0 +1,5 @@
+{
+  "name": "Rare Books Access Manager",
+  "description": "A comprehensive system for managing access to rare library collections, featuring CRUD operations and secure login.",
+  "requestFramePermissions": []
+}
